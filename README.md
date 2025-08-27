@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, meu nome é Alan
 
-<!--
-**alanmilagre/alanmilagre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em 2022, concluí um curso Técnico de Programação com Arduino, em 2024 terminei meu curso de inglês nível intermediário superior, e um curso técnico de informática com 1200 horas de duração.
 
-Here are some ideas to get you started:
+Durante o curso de informática, desenvolvi conhecimentos básicos em algumas áreas, como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Banco de dados  
+- Programação orientada a objetos  
+- HTML, JavaScript e CSS  
+- Infraestrutura e arquitetura básica de redes  
+
+Ainda não me considero especialista em nenhuma dessas áreas, mas estou sempre tentando melhorar aos poucos.
+
+Atualmente estou fazendo um novo curso técnico de 1200 horas na área de Desenvolvimento de Sistemas.
+
+Estou aberto a participar de projetos para ganhar experiência e também estou em busca do meu primeiro emprego na área.
+
