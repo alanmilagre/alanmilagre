@@ -16,6 +16,6 @@ Atualmente: cursando Técnico em Desenvolvimento de Sistemas (Nível Médio, 120
 - Primeira oportunidade profissional na área de TI  
 
 ## Contato  
-- Github: @alanmilagre
+- Github: [@alanmilagre](https://github.com/alanmilagre)
 - LinkedIn: (adicione aqui)  
 - Email: alanmilagre457@gmail.com
