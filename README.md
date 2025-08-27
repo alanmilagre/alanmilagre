@@ -15,6 +15,11 @@ Atualmente: cursando Técnico em Desenvolvimento de Sistemas (Nível Médio, 120
 - Experiência prática em projetos de desenvolvimento  
 - Primeira oportunidade profissional na área de TI  
 
+##Localização
+
+Petrópolis – RJ, Brasil
+Estudante SENAI | Disponível para colaborações técnicas e projetos de estudo
+
 ## Contato  
 - Github: [@alanmilagre](https://github.com/alanmilagre)
 - LinkedIn: (adicione aqui)  
