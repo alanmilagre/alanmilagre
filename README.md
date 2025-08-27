@@ -1,17 +1,21 @@
-# Olá, meu nome é Alan
+# Olá, meu nome é Alan  
 
-Em 2022, concluí um curso Técnico de Programação com Arduino, em 2024 terminei meu curso de inglês nível intermediário superior, e um curso técnico de informática com 1200 horas de duração.
+## Formação  
+- 2022 — Curso Técnico em Programação com Arduino 
+- 2024 — Curso de Inglês (nível Intermediário Superior)  
+- 2024 — Curso Técnico de Informática (Nível Médio, 1200 horas de carga horária)  
+  - Banco de Dados  
+  - Programação Orientada a Objetos  
+  - HTML, CSS e JavaScript  
+  - Infraestrutura e Arquitetura de Redes  
 
-Durante o curso de informática, desenvolvi conhecimentos básicos em algumas áreas, como:
+Atualmente: cursando Técnico em Desenvolvimento de Sistemas (Nível Médio, 1200 horas de carga horária).  
 
-- Banco de dados  
-- Programação orientada a objetos  
-- HTML, JavaScript e CSS  
-- Infraestrutura e arquitetura básica de redes  
+## O que busco  
+- Experiência prática em projetos de desenvolvimento  
+- Primeira oportunidade profissional na área de TI  
 
-Ainda não me considero especialista em nenhuma dessas áreas, mas estou sempre tentando melhorar aos poucos.
-
-Atualmente estou fazendo um novo curso técnico de 1200 horas na área de Desenvolvimento de Sistemas.
-
-Estou aberto a participar de projetos para ganhar experiência e também estou em busca do meu primeiro emprego na área.
-
+## Contato  
+- GitHub: [@alan](https://github.com/alan)  
+- LinkedIn: (adicione aqui)  
+- Email: (adicione aqui)
