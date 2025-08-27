@@ -22,5 +22,5 @@ Estudante SENAI | Disponível para colaborações técnicas e projetos de estudo
 
 ## Contato  
 - Github: [@alanmilagre](https://github.com/alanmilagre)
-- LinkedIn: (adicione aqui)  
+- LinkedIn: [Alan Milagre](www.linkedin.com/in/alan-m-446ba2279) 
 - Email: alanmilagre457@gmail.com
