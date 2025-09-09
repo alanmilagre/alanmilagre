@@ -15,7 +15,7 @@ Atualmente: cursando Técnico em Desenvolvimento de Sistemas.
 - Experiência prática em projetos de desenvolvimento  
 - Oportunidade profissional na área de TI  
 
-##Localização
+## Localização
 
 Petrópolis – RJ, Brasil
 Estudante SENAI | Disponível para colaborações técnicas e projetos de estudo
